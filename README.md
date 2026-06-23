@@ -92,4 +92,4 @@ E-Commerce-Conversion-Prediction/
 
 Amrit
 IIIT Bhagalpur
-B.Tech Mechanical and Automation Engineering
+B.Tech Mechatronics and Automation Engineering
